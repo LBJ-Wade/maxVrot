@@ -1,0 +1,1 @@
+# Using <img src="Rlogo.svg" width="60" /> for investigating the statistical relations between galaxies gas and stellar maximum rotation velocities, morphological types, and B band absolute magnitudes. 
