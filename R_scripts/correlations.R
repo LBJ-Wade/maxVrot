@@ -10,4 +10,3 @@ cor.test(data$vmaxg, data$t, method=c("pearson"))
 cor.test(data$vmaxs, data$vmaxg, method=c("pearson"))
 
 sink()
-
